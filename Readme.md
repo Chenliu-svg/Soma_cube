@@ -5,7 +5,7 @@
 Soma Cube is a big cube consisting of small cubes with at least one face adjacent to each other stacking together.
 I write a game based on it inspired by the talent show "The Brain".
 <figure class="half">
-  <img src="./demo-img/SomaCube.png">
+  <img src="./demo-img/SomaCube.png" width="600" height="400">
 </figure>
 
 ### Game mode
@@ -15,8 +15,8 @@ The Soma Cube Puzzle Game rule
 after that players are asked to find out the three views of the Soma Cube among lots of disturbing views.
 
 <figure class="half">
-  <img src="./demo-img/gameMode0.png" width="500" height="400">
-  <img src="./demo-img/gameMode1.png" width="500" height="400">
+  <img src="./demo-img/gameMode0.png" width="300" height="200">
+  <img src="./demo-img/gameMode1.png" width="300" height="200">
 </figure>
 
 ### Tool mode
@@ -24,10 +24,10 @@ after that players are asked to find out the three views of the Soma Cube among 
 Given two views, find all the possible Soma Cubes and draw the expanded view of the Soma Cube.
 
 <figure class="half">
-  <img src="./demo-img/toolMode0.png" width="250" height="200">
-  <img src="./demo-img/toolMode3png.png" width="250" height="200">
-  <img src="./demo-img/toolMode1.png" width="250" height="200">
-  <img src="./demo-img/toolMode2.png" width="250" height="200">
+  <img src="./demo-img/toolMode0.png" width="200" height="160">
+  <img src="./demo-img/toolMode3png.png" width="200" height="160">
+  <img src="./demo-img/toolMode1.png" width="200" height="160">
+  <img src="./demo-img/toolMode2.png" width="200" height="160">
 </figure>
 
 ## Key points of the implementation
