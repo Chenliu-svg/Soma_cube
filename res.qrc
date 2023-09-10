@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/begin.png</file>
+        <file>pic/icon.png</file>
+        <file>pic/mainscene.png</file>
+        <file>pic/标题.png</file>
+        <file>pic/gamemode.png</file>
+        <file>pic/toolmode.png</file>
+        <file>pic/game.png</file>
+        <file>pic/shezhi.png</file>
+        <file>pic/fanhui.png</file>
+        <file>pic/tuichu.png</file>
+        <file>pic/chooselevel.jpg</file>
+        <file>pic/player.png</file>
+        <file>pic/addplayer.png</file>
+        <file>pic/nandu.jpg</file>
+        <file>pic/jiandan.png</file>
+        <file>pic/kunnan.png</file>
+        <file>pic/zzhongdeng.png</file>
+        <file>pic/kuang.png</file>
+        <file>pic/choose1.png</file>
+        <file>pic/choose2.png</file>
+        <file>pic/tijiao.png</file>
+        <file>pic/ranklist.png</file>
+        <file>pic/background.mp3</file>
+        <file>pic/弹跳.wav</file>
+        <file>pic/失败.wav</file>
+        <file>pic/yinliang.png</file>
+        <file>pic/zantin.png</file>
+        <file>pic/chenggong.wav</file>
+        <file>pic/bofang.png</file>
+        <file>pic/myQss .qss</file>
+        <file>pic/myqss.qss</file>
+    </qresource>
+</RCC>

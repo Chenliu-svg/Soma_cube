@@ -1,0 +1,10 @@
+QSlider::groove:horizontal {
+        height: 20px;
+        background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 rgb(124, 124, 124), stop: 1.0 rgb(72, 71, 71));
+}
+QSlider::handle:horizontal {
+        width: 8px;
+        background: #7FFF00;
+        margin: -6px 0px -6px 0px;
+        border-radius: 9px;
+}
